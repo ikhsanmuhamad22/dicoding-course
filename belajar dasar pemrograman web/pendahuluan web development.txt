@@ -1,0 +1,9 @@
+pendahuluan web development
+
+Halaman web merupakan halaman tunggal yang menampilkan informasi, baik berupa teks, gambar, maupun media lainnya. Tidak hanya media yang ditampilkan, halaman web yang dibangun dapat ditambahkan interaktivitas menggunakan kode (JavaScript).
+
+website adalah sekumpulan halaman web yang saling terhubung. Website bersifat unik karena setiap halaman dapat saling terhubung dengan menggunakan hipertaut (hyperlink), baik dalam domain yang sama maupun berbeda.
+
+Umumnya website memuat informasi yang disediakan secara perorangan, kelompok, atau organisasi. Semua informasi yang tersedia pada halaman website disimpan pada server. Kita akan membahas mengenai server pada materi berikutnya.
+
+Dari sisi software, web server merupakan komputer yang menjalankan sebuah program agar dapat melayani (menerima atau mengirim) data melalui jenis protokol bernama HTTP. Ini merupakan protokol standar dalam melakukan transaksi data oleh browser. Ada banyak program agar komputer kita dapat berkomunikasi dengan HTTP, yakni NGINX, Apache, ataupun membuatnya sendiri dengan menggunakan bahasa pemrograman server-side.
