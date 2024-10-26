@@ -1,0 +1,12 @@
+Pemrograman adalah proses menyusun instruksi yang sistematis dan akan dieksekusi oleh komputer. Manusia membuat beberapa instruksi yang harus dieksekusi oleh komputer dalam bahasa yang dimengertinya, yakni bahasa pemrograman.
+
+Compiled Language
+Ada beberapa bahasa pemrograman yang membutuhkan satu tahapan sebelum instruksinya dapat dijalankan oleh mesin, yaitu proses kompilasi atau compile. Bagi bahasa yang membutuhkan ini,
+Beberapa bahasa yang menggunakan compiler adalah Java, C++, Swift, dsb.
+
+Scripting Language
+Tidak seperti compiled language, sebuah program atau source code yang ditulis dengan scripting language tidak memerlukan compiler. Source code dapat langsung diberikan, diterjemahkan, dan dijalankan oleh mesin. Mesin ini menggunakan interpreter dalam melakukannya. Contoh yang sangat dekat dengan kita adalah browser.
+Beberapa bahasa pemrograman yang menggunakan interpreter adalah JavaScript, PHP, Python, dsb.
+
+Pengenalan JavaScript
+JavaScript termasuk dalam salah satu bahasa pemrograman yang menggunakan interpreter (scripting language). Artinya, kita dapat menulis kode dengan bahasa ini dan langsung diserahkan ke mesin.
