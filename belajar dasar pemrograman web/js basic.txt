@@ -1,0 +1,5 @@
+js basic
+
+statement adalah instruksi yang akan dieksekusi oleh komputer.
+
+ expression merupakan bagian dari sebuah statement yang menghasilkan nilai.
