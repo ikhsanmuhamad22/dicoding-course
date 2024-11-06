@@ -36,7 +36,6 @@ function calculateTotalRevenue() {
 
 // TODO: selesaikan fungsi deleteOrder
 function deleteOrder(id) {
-  console.log(id);
   const updateOrder = orders.filter((i) => i.id !== id);
   orders = updateOrder;
 }
