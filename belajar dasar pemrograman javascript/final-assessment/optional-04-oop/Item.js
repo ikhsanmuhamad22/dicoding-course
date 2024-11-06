@@ -25,7 +25,7 @@ class Item {
 
   displayDetails() {
     console.log(
-      `ID: ${id}, Name: ${name}, Quantity: ${quantity}, Price: ${price}`
+      `ID: ${this.id}, Name: ${this.name}, Quantity: ${this.quantity}, Price: ${this.price}`
     );
   }
 }

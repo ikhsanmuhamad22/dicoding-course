@@ -100,3 +100,5 @@ console.log(orders);
  *   }
  * ]
  */
+
+console.log(orders);

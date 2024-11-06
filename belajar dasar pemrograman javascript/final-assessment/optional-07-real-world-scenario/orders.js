@@ -36,8 +36,11 @@ function calculateTotalRevenue() {
 
 // TODO: selesaikan fungsi deleteOrder
 function deleteOrder(id) {
-  const updateOrder = orders.filter((i) => i.id !== id);
-  orders = updateOrder;
+  const findOrder = orders.find((i) => i.id === id);
+  const findIndexOrder = orders.indexOf(findOrder);
+  if (findIndexOrder !== -1) {
+    orders.splice(findIndexOrder, 1);
+  }
 }
 
 export {
